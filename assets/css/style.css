@@ -1,0 +1,12 @@
+body { background: #98FB98 !important; font-family: 'Poppins', sans-serif !important; }
+.navbar { background-color: #8B4513 !important; }
+.navbar a { color: #fff !important; }
+.card { transition: 0.3s !important;}
+.card:hover { transform: scale(1.05) !important;}
+
+.card img {
+  transition: transform 0.2s ease;
+}
+.card img:hover {
+  transform: scale(1.05);
+}
